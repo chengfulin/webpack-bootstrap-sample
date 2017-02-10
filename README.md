@@ -3,13 +3,24 @@
 ## Usages
 
 webpack compilation
+
+(npm)
 ```
 npm run build
 ```
+(yarn)
+```
+yarn build
+```
 
 Run on the lite-server
+(npm)
 ```
 npm run dev
+```
+(yarn)
+```
+yarn dev
 ```
 
 ## References
