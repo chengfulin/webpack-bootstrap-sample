@@ -1,0 +1,8 @@
+## environment
+.vscode
+
+## packages
+node_modules
+
+## compilation
+dist
